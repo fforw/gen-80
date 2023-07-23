@@ -1001,6 +1001,11 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
+"@fforw/spectral.js@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@fforw/spectral.js/-/spectral.js-2.0.2.tgz#6608b9d1554ad735042f56b6046d5ba112d69276"
+  integrity sha512-yC0dyOcoqyP/gzzq+uM3we+NsFW1muFBh7iqGgw83JG5QG4rKMDpkIfG8bsDutmeIEjmAL5Bzfd8OiEZcOhDYg==
+
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"
@@ -3116,6 +3121,11 @@ power-assert@^1.6.1:
     power-assert-formatter "^1.4.1"
     universal-deep-strict-equal "^1.2.1"
     xtend "^4.0.0"
+
+prando@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/prando/-/prando-6.0.1.tgz#ffa8de84c2adc4975dd9df37ae4ada0458face53"
+  integrity sha512-ghUWxQ1T9IJmPu6eshc3VU0OwveUtXQ33ZLXYUcz1Oc5ppKLDXKp0TBDj6b0epwhEctzcQSNGR2iHyvQSn4W5A==
 
 pretty-error@^4.0.0:
   version "4.0.0"
